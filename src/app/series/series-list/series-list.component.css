@@ -1,0 +1,9 @@
+.serie-name {
+    color: blue;
+    cursor: pointer;
+  }
+  
+  .serie-name:hover {
+    text-decoration: underline;
+  }
+  
