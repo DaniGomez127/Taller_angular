@@ -18,7 +18,7 @@ const appRoutes: Routes = [
     BrowserModule,
     SeriesModule,
     HttpClientModule,
-    RouterModule.forRoot(appRoutes) // Añade las rutas aquí
+    RouterModule.forRoot(appRoutes)
   ],
   bootstrap: [AppComponent]
 })
